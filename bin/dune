@@ -1,0 +1,4 @@
+(executable
+ (public_name projet_pfa_23_24)
+ (name main)
+ (libraries typeInference))
